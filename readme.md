@@ -5,6 +5,6 @@ Na pagina contém um menu que permite navegar entre as paginas do site (home, so
 
 (x)Criar o arquivo HTML com os objetos da pagina
 ()Estilizar a pagina com CSS
-()Criar botão de cadastro
+(x)Criar botão de cadastro
 ()Criar a logo do header e footer
 ()Colocar os serviços oferecidos pelo hospital na home page 

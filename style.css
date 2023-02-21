@@ -5,9 +5,36 @@
     list-style:none;
     border:0;
 }
-
+header{
+    display:flex;
+}
 .navbar li{
-    float:left;
+    padding: 3px 0;
     list-style:none;
-    margin:13px 20px;
+    display:inline-block;
+}
+main{
+    display:flex;
+    align-items: center;
+    flex-direction:column;
+    justify-content:space-around;
+}
+body{
+    background-color:rgb(127, 244, 255);
+    height:100vh;
+    width:100vw;
+}
+div{
+    box-sizing: border-box;
+    
+}
+
+
+.formulario{
+    box-sizing: 50%
+}
+footer{
+    display:flex;
+    justify-content:center;
+    background-color:rgb(14, 201, 179)
 }
